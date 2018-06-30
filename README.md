@@ -1,4 +1,4 @@
 # Pixel-Art-Maker
-https://github.com/Syfon01/Pixel-Art-Maker
+https://syfon01.github.io/Pixel-Art-Maker/.
 
 The is the link to Udacity final Challenge
